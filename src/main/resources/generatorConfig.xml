@@ -62,36 +62,36 @@
         </javaClientGenerator>
         <table tableName="sys_config" domainObjectName="SysConig" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
         <table tableName="sys_dept" domainObjectName="SysDept" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
         <table tableName="sys_dict" domainObjectName="SysDict" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
         <table tableName="sys_log" domainObjectName="SysLog" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
         <table tableName="sys_login_log" domainObjectName="SysLogininLog" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
         <table tableName="sys_menu" domainObjectName="SysMenu" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
         <table tableName="sys_role" domainObjectName="SysRole" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
         <table tableName="sys_role_dept" domainObjectName="SysRoleDept" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
         <table tableName="sys_role_menu" domainObjectName="SysRoleMenu" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
         <table tableName="sys_user" domainObjectName="SysUser" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
         <table tableName="sys_user_role" domainObjectName="SysUserRole" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"></table>
+               selectByExampleQueryId="false" enableSelectByPrimaryKey="true"/>
     </context>
 </generatorConfiguration>
