@@ -1,2 +1,2 @@
 # mercuryos
-权限管理系统。
+Spring Boot基本配置练习。
